@@ -1,0 +1,10 @@
+[Variables]
+Language=English
+Key=4f5715d711498a4ac4160656cfeb17db
+Lat=***REMOVED***
+Lon=***REMOVED***
+Unit=m
+ScrollMouseIncrement=0.02
+Format=H
+Hidden=0
+Hidden2=1
