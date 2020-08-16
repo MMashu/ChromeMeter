@@ -5,6 +5,4 @@ Lat=
 Lon=
 metric=0
 ScrollMouseIncrement=0.02
-Format=#I
-Hidden=1
-Hidden2=0
+Format=H
