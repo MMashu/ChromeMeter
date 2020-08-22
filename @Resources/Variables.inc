@@ -1,8 +1,11 @@
 [Variables]
 Language=English
 Key=4f5715d711498a4ac4160656cfeb17db
-Lat=0
-Lon=0
+Lat=***REMOVED***
+Lon=***REMOVED***
 Metric=0
+ScrollMouseIncrement=0.02
 Format=#I
-Text=Message
+Text=fastboot oem unlock
+ScreenW=2560
+ScreenH=1440
