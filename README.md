@@ -11,7 +11,7 @@ A Chromecast-inspired skin for Rainmeter, optimized for 1080p and 1440p displays
 
 ## Installation:
 * Download the RMSkin package from the "Releases" page
-  * Or clone the repo & paste the contents into C:\Users\$whoami\Documents\Rainmeter\Skins\ 
+  * Or clone the repo & paste the contents into C:\Users\\$whoami\Documents\Rainmeter\Skins\ 
 * Go to settings:
   * ![Settings Guide](@Resources/pics/settings_guide.png)
 * Find your latitude & longitude (you can use Google Maps) and paste them in the appropriate boxes
